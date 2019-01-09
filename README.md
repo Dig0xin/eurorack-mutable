@@ -1,10 +1,12 @@
 Forked from pichenettes/eurorack
 
-check the builds folder inside the elements folder for custom fw that uses different samples for the exciter mallet.
+Check the builds folder inside the elements folder for custom fw that uses different samples for the exciter mallet.
+And the wiki for instructions for hacking other Samples onto a custome FW:
+
+https://github.com/manualf/eurorack-mutable/wiki
 
 
-
-Thanks for this great Module to pichenettes!
+Thanks for this great Module Émilie!
 
 License
 Code (AVR projects): GPL3.0.
